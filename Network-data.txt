@@ -1,0 +1,21 @@
+Name: Polygon Mainnet
+New URL de RPC: https://rpc-mainnet.maticvigil.com/
+Chain id: 137
+Symbol: MATIC
+URL explorer: https://polygonscan.com/
+
+--------------------------------------------------------
+
+Name: Avalanche Network
+New URL de RPC: https://api.avax.network/ext/bc/C/rpc
+Chain id: 43114
+Symbol: AVAX
+URL explorer: https://cchain.explorer.avax.network/
+
+--------------------------------------------------------
+
+Name: BSC Network
+New URL de RPC: https://bsc-dataseed.binance.org/
+Chain id: 56
+Symbol: BNB
+URL explorer: https://bscscan.com/

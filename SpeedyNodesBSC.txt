@@ -1,0 +1,2 @@
+Speedy Node 1: https://speedy-nodes-nyc.moralis.io/43dfb9f36ff0fe9c2938d22f/bsc/mainnet
+Speedy Node 2: https://speedy-nodes-nyc.moralis.io/fddd87dc3a742f01dfa33d58/bsc/mainnet
